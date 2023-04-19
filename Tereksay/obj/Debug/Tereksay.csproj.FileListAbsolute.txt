@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\bin\Debug\Tereksay.exe.config
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\bin\Debug\Tereksay.exe
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\bin\Debug\Tereksay.pdb
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\Tereksay.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\Tereksay.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\WindowsFormsApp2Tereksay.Properties.Resources.resources
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\Tereksay.csproj.GenerateResource.cache
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\Tereksay.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\Tereksay.exe
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\Tereksay.pdb
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\WindowsFormsApp2Tereksay.Form1.resources
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\WindowsFormsApp2Tereksay.Company.resources
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\WindowsFormsApp2Tereksay.Podrazdeleniya_komp.resources
+C:\Users\user\RiderProjects\WindowsFormsApp2Tereksay\Tereksay\obj\Debug\WindowsFormsApp2Tereksay.Founders.resources
