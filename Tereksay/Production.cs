@@ -21,6 +21,7 @@ namespace WindowsFormsApp2Tereksay
         {
             FactoryForm form = new FactoryForm();
             form.Show();
+
         }
 
         private void MiningInfoButton_Click(object sender, EventArgs e)
